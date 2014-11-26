@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexBaiduMap" version="3.1.0" build="0">
+		<info>0:百度地图插件，封装最新的百度地图API</info>
+    </plugin>
+</uexplugins>
